@@ -11,4 +11,4 @@ A distributed rate limiting service built in Go for cloud-native environments.
 
 ## Getting Started
 
-This project is under active development as long as I stocked with white monster
+This project is under active development as long as Im stocked with the white monster
